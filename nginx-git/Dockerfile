@@ -2,4 +2,3 @@ FROM nginx
 
 RUN apt-get update
 RUN apt-get install -y git python-virtualenv --force-yes
-RUN mkdir /root/.ssh/
