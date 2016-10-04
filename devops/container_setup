@@ -1,1 +1,1 @@
-cd /usr/share/nginx/html && git clone git@github.com:gbgdev/tcc.git
+cd /usr/share/nginx/html && git clone git@github.com:gbgdev/tcc.git --branch $BRANCH
